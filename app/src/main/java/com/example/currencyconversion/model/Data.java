@@ -4,67 +4,67 @@ import com.google.gson.annotations.SerializedName;
 
 public class Data {
     @SerializedName("AUD")
-    private double australianDollar;
+    private Double australianDollar;
     @SerializedName("BGN")
-    private double balgarianLev;
+    private Double balgarianLev;
     @SerializedName("BRL")
-    private double brazilReal;
+    private Double brazilReal;
     @SerializedName("CAD")
-    private double canadianDollar;
+    private Double canadianDollar;
     @SerializedName("CHF")
-    private double swissFranc;
+    private Double swissFranc;
     @SerializedName("CNY")
-    private double chineseYuan;
+    private Double chineseYuan;
     @SerializedName("CZK")
-    private double czechKoruna;
+    private Double czechKoruna;
     @SerializedName("DKK")
-    private double danishKrone;
+    private Double danishKrone;
     @SerializedName("EUR")
-    private double euro;
+    private Double euro;
     @SerializedName("GBP")
-    private double poundSterling;
+    private Double poundSterling;
     @SerializedName("HKD")
-    private double hongKongDollar;
+    private Double hongKongDollar;
     @SerializedName("HRK")
-    private double croatianKuna;
+    private Double croatianKuna;
     @SerializedName("HUF")
-    private double hungarianForint;
+    private Double hungarianForint;
     @SerializedName("IDR")
-    private double indonesianRupiah;
+    private Double indonesianRupiah;
     @SerializedName("ILS")
-    private double newIsraeliSheqel;
+    private Double newIsraeliSheqel;
     @SerializedName("INR")
-    private double indianRupee;
+    private Double indianRupee;
     @SerializedName("ISK")
-    private double icelandicKrona;
+    private Double icelandicKrona;
     @SerializedName("KRW")
-    private double southKoreanWon;
+    private Double southKoreanWon;
     @SerializedName("MXN")
-    private double mexicanPeso;
+    private Double mexicanPeso;
     @SerializedName("MYR")
-    private double malaysianRinggit;
+    private Double malaysianRinggit;
     @SerializedName("NOK")
-    private double norwegianKrone;
+    private Double norwegianKrone;
     @SerializedName("NZD")
-    private double newZealandDollar;
+    private Double newZealandDollar;
     @SerializedName("PHP")
-    private double philippinePeso;
+    private Double philippinePeso;
     @SerializedName("PLN")
-    private double polishZloty;
+    private Double polishZloty;
     @SerializedName("RON")
-    private double romanianLeu;
+    private Double romanianLeu;
     @SerializedName("RUB")
-    private double russianRuble;
+    private Double russianRuble;
     @SerializedName("SEK")
-    private double swedishKrona;
+    private Double swedishKrona;
     @SerializedName("SGD")
-    private double singaporeDollar;
+    private Double singaporeDollar;
     @SerializedName("THB")
-    private double thaiBaht;
+    private Double thaiBaht;
     @SerializedName("TRY")
-    private double turkishLira;
+    private Double turkishLira;
     @SerializedName("USD")
     private Integer uSDollar;
     @SerializedName("ZAR")
-    private double southAfricanRand;
+    private Double southAfricanRand;
 }
