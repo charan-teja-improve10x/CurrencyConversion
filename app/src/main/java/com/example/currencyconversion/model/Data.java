@@ -37,6 +37,8 @@ public class Data {
     private Double indianRupee;
     @SerializedName("ISK")
     private Double icelandicKrona;
+    @SerializedName("JPY")
+    private Double japaneseYen;
     @SerializedName("KRW")
     private Double southKoreanWon;
     @SerializedName("MXN")
@@ -64,7 +66,7 @@ public class Data {
     @SerializedName("TRY")
     private Double turkishLira;
     @SerializedName("USD")
-    private Integer uSDollar;
+    private Double uSDollar;
     @SerializedName("ZAR")
     private Double southAfricanRand;
 }
